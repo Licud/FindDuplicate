@@ -40,7 +40,7 @@ public class FindRepeatsHash {
 		return duplicate;
 	}
 	
-	/* Main method of the program.
+	/* Main method of the program. Test Clone
 	 */
 	public static void main(String[] args) {
 		int repeatedNumber = findDuplicate();
